@@ -1,33 +1,42 @@
-# temple-dash
+# NEON RUN 🎮
 
-This is a [Next.js](https://nextjs.org) project bootstrapped with [v0](https://v0.app).
+A cyberpunk endless-runner experience set in the neon streets of New Eden.
 
-## Built with v0
+## 🎮 Game Modes
 
-This repository is linked to a [v0](https://v0.app) project. You can continue developing by visiting the link below -- start new chats to make changes, and v0 will push commits directly to this repo. Every merge to `main` will automatically deploy.
+- **Endless Run** — Run as far as you can.
+- **Time Attack** — Race against the clock.
+- **Hardcore** — One life. No hesitation.
+- **Daily Challenge** — A new challenge every day.
+- **Zen Practice** — Practice without limits.
 
-[Continue working on v0 →](https://v0.app/chat/projects/prj_0iF7ew4ZMOzthvlOJHutQejGi5h0)
+## ✨ Features
 
-## Getting Started
+- Cyberpunk neon interface
+- Multiple game modes
+- Personal best records
+- Daily challenges
+- Interactive gameplay
+- Responsive design
 
-First, run the development server:
+## 🛠️ Technology
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+- Next.js
+- React
+- TypeScript
+- Tailwind CSS
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 📁 Project Structure
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- `app/` — Main application
+- `components/` — Reusable UI components
+- `lib/` — Supporting utilities
+- `public/` — Images and other assets
 
-## Learn More
+## 🚀 Project
 
-To learn more, take a look at the following resources:
+NEON RUN is a web-based gaming project designed as an interactive cyberpunk running experience.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-- [v0 Documentation](https://v0.app/docs) - learn about v0 and how to use it.
+---
+
+**NEON RUN — The city never stops. Neither do you.**
